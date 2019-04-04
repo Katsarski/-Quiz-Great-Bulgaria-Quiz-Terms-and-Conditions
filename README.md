@@ -58,7 +58,7 @@ Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 
-Българска версия:
+БЪЛГАРСКА ВЕРСИЯ: 
 
 Декларация за поверителност
 Боян Кацарски създаде приложението "Велика България Quiz" като приложение, което показва реклами. Тази услуга се предоставя от Боян Кацарски без такси и е предназначена за използване в текущия си вид.
