@@ -61,7 +61,13 @@ Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 
+
+
+
+
 БЪЛГАРСКА ВЕРСИЯ: 
+
+
 
 Декларация за поверителност
 Боян Кацарски създаде приложението "Велика България Quiz" като приложение, което показва реклами. Тази услуга се предоставя от Боян Кацарски без такси и е предназначена за използване в текущия си вид.
@@ -81,8 +87,11 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 Връзка към политиката за поверителност на доставчици на услуги на трети страни, използвана от приложението
 
 Услуги на Google Play - https://policies.google.com/privacy
+
 AdMob - https://support.google.com/admob/answer/6128543?hl=bg
+
 Facebook - https://www.facebook.com/about/privacy
+
 Логове на приложението
 
 Искам да ви информирам, че всеки път, когато използвате услугата ми, в случай на грешка в приложението, събирам данни и информация (чрез продукти на трети страни) на телефона ви, наречени данни за регистрация. Тези регистрационни данни могат да включват информация като адрес на интернет протокола на устройството (IP), име на устройството, версия на операционната система, конфигурацията на приложението при използване на услугата ми, времето и датата на използване на услугата и друга статистика ,
